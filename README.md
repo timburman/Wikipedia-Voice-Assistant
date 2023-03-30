@@ -7,7 +7,7 @@ This Project was aimed to creating a voice assistant which will help us search a
 
 # **II.Materials and Methods**
 
-Project is created in Python language. The modules used:-
+Project is created in Python language. The modules used:-\n
 ##1. GoogleSpeech Recognition
 ##2. Wikipedia API
 ##3. Pyttsx3
