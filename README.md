@@ -11,5 +11,3 @@ Project is created in Python language. The modules used:-
 ##2. Wikipedia API
 ##3. Pyttsx3
 ##4. Datetime
-
-***
